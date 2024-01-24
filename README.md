@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm a student at Taras Shevchenko National University of Kyiv, pursuing a degree in Software Engineering 🌟
 <!--
 **luiqor/luiqor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
